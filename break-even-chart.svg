@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">DevCraft lean MVP break-even chart</title><desc id="desc">Revenue line and total cost line intersect at about 21 thousand baht of monthly revenue.</desc>
+  <rect width="1100" height="620" fill="#fffdf8"/><text x="75" y="55" fill="#17302b" font-family="Calibri, Arial" font-size="26" font-weight="700">When does the lean MVP cover its cash cost?</text>
+  <text x="75" y="84" fill="#59655f" font-family="Calibri, Arial" font-size="18">Revenue rises with activity. Total cost starts with the fixed operating cost.</text>
+  <line x1="90" y1="460" x2="980" y2="460" stroke="#97a59e" stroke-width="2"/><line x1="90" y1="105" x2="90" y2="460" stroke="#97a59e" stroke-width="2"/>
+  <text x="90" y="497" fill="#59655f" font-family="Calibri, Arial" font-size="17">Lower activity</text><text x="820" y="497" fill="#59655f" font-family="Calibri, Arial" font-size="17">Higher activity</text>
+  <path d="M90 430 L940 100" fill="none" stroke="#276b56" stroke-width="12"/><path d="M90 330 L940 150" fill="none" stroke="#b9614d" stroke-width="12"/>
+  <text x="825" y="105" fill="#276b56" font-family="Calibri, Arial" font-size="20" font-weight="700">Revenue</text><text x="820" y="185" fill="#b9614d" font-family="Calibri, Arial" font-size="20" font-weight="700">Total cost</text>
+  <line x1="657" y1="210" x2="657" y2="460" stroke="#c8944d" stroke-width="3" stroke-dasharray="10 9"/><circle cx="657" cy="210" r="14" fill="#e8d8ae" stroke="#17302b" stroke-width="4"/>
+  <rect x="681" y="174" width="270" height="68" rx="4" fill="#17302b"/><text x="700" y="202" fill="#fffdf8" font-family="Calibri, Arial" font-size="19" font-weight="700">Break-even ≈ ฿21,000</text><text x="700" y="225" fill="#dceee4" font-family="Calibri, Arial" font-size="15">Revenue = total cost</text>
+  <text x="155" y="390" fill="#b9614d" font-family="Calibri, Arial" font-size="20" font-weight="700">Loss zone</text><text x="800" y="275" fill="#276b56" font-family="Calibri, Arial" font-size="20" font-weight="700">Profit zone</text>
+  <text x="90" y="555" fill="#3e514c" font-family="Calibri, Arial" font-size="18">Formula: ฿20,000 fixed cost ÷ 94.9% contribution margin ratio = approximately ฿21,075 monthly revenue.</text>
+</svg>
